@@ -1,5 +1,4 @@
 # Pre-entrega 2 IA
-Curso: IA Generación de Prompts
 Estudiante: Ignacio Luis Daddario
 
 Proyecto:
